@@ -1,0 +1,6 @@
+__pycache__
+.coverage
+.json
+*.o
+transasm/tests/func/primes/prime_x86
+transasm/tests/func/primes/prime_x86_64
