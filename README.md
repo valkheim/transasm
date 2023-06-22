@@ -232,3 +232,4 @@ duplicates with (* i64)
 * http://www.c-jump.com/CIS77/CPU/x86/lecture.html (25.)
 * Hydan program
 * irasm program https://github.com/XlogicX/irasm
+* https://haruspex.can.ac/ 
