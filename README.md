@@ -234,3 +234,4 @@ duplicates with (* i64)
 * irasm program https://github.com/XlogicX/irasm
 * https://haruspex.can.ac/ 
 * https://git.back.engineering/mike/perses
+* https://amonsec.net/posts/2020/12/00000006/
